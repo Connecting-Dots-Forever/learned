@@ -9,7 +9,7 @@
 ```
 {% endhint %}
 
-## year / feb / week-7
+# year / feb / week-7
 
 {% hint style="info" %}
 ```markup
@@ -19,35 +19,35 @@
 ```
 {% endhint %}
 
-### Tech
+## Tech
 
 1. ...
 
-### Coding
+## Coding
 
 1. ...
 
-### Web-Dev
+## Web-Dev
 
 1. ...
 
-### DSA
+## DSA
 
 1. ...
 
-### Extension
+## Extension
 
 1. ...
 
-### AI-ML
+## AI-ML
 
 1. ...
 
-### Other
+## Other
 
 1. ...
 
-## Friday-Night
+# Friday-Night
 
 {% hint style="info" %}
 * Any Additional NOTE's
@@ -55,12 +55,12 @@
 * etc
 {% endhint %}
 
-### Discuss On
+## Discuss On
 
 * ...
 * ...
 
-### Participant
+## Participant
 
 1. Name Surname / username / link
 2. ...

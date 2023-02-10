@@ -1,6 +1,6 @@
 
 
-## 2023 / feb / week-6
+# 2023 / feb / week-6
 
 {% hint style="success" %}
 ```
@@ -12,7 +12,7 @@
 <figure><img src="https://raw.githubusercontent.com/Connecting-Dots-Forever/media/main/screenshots/welcome_message.png" alt="Welcome Message Image on Server"><figcaption></figcaption></figure>
 
 
-### Coding
+## Coding
 
 1. [https://www.stopstalk.com/](https://www.stopstalk.com/)
 2. python "the walrus operator" ie. ":="
@@ -22,7 +22,7 @@
    * [https://webflow.com/](https://webflow.com/)
    * wordpress, figma .... etc
 
-### DSA
+## DSA
 
 1. roadmap
    * to refer ... how to start / learn
@@ -30,16 +30,16 @@
    * recommended ... as direct leetcode problem
      * [https://neetcode.io/roadmap](https://neetcode.io/roadmap)
 
-### Extension
+## Extension
 
 1. [https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 
-### AI-ML
+## AI-ML
 
 1. [https://gita.kishans.in/](https://gita.kishans.in/)
 2. [https://gitagpt.org/](https://gitagpt.org/)
 
-### Blog / Article
+## Blog / Article
 
 1. Blogs by Raghav
 
@@ -47,7 +47,7 @@
    * [https://dev.to/withrvr/-reverse-string-using-html-tag-only-16pj](https://dev.to/withrvr/-reverse-string-using-html-tag-only-16pj)
    * 🍎: Bad Apple: [https://dev.to/withrvr/-bad-apple-2lom](https://dev.to/withrvr/-bad-apple-2lom)
 
-## Friday-Night
+# Friday-Night
 
 {% hint style="info" %}
 ```
@@ -56,10 +56,10 @@ but most of them ... outside / Hackathon
 ```
 {% endhint %}
 
-### Discuss On
+## Discuss On
 
 - Projects
-  - Portfolio :- https://ayushbulbule.vercel.app/
+  - Portfolio :- [https://ayushbulbule.vercel.app/](https://ayushbulbule.vercel.app/)
   - tejas:- ecommerce website
     - fix / diff size image ?
     - optimization should we ?
@@ -75,9 +75,9 @@ but most of them ... outside / Hackathon
 	- status
 - random avatar
   - profile image
-  - https://dicebear.com/
+  - [https://dicebear.com/](https://dicebear.com/)
 
-### Participant
+## Participant
 
 - Raghav Rathi
 - Tejas Lakade
