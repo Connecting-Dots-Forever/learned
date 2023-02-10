@@ -11,7 +11,7 @@
   * [week 4](2023/jan/week-4.md)
 * [Feb](2023/feb/README.md)
   * [week 5](2023/feb/week-5.md)
-  * [week 6](2023/feb/readme.md)
+  * [week 6](2023/feb/week-6.md)
 
 ## other
 
