@@ -4,26 +4,26 @@
 
 ### Tech
 
-1. https://withrvr.bio.link/
-2. https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en
+1. [https://withrvr.bio.link/](https://withrvr.bio.link/)
+2. [https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en)
 3. ...
 
 ### Code
 
-1. https://threejs.org/
+1. [https://threejs.org/](https://threejs.org/)
 2. disabled html attribute inside a form will not send its value with the form -so readonly attribute necessary there.
    * `<input type='text' value='123' disabled/> <input type='text' value='123' readonly/>`
 3. ...
 
 ### DSA
 
-1. https://leetcode.com
+1. [https://leetcode.com](https://leetcode.com)
 2. ...
 
 ### Other
 
-1. https://bruno-simon.com/
-2. https://github.com/abhiib02
+1. [https://bruno-simon.com/](https://bruno-simon.com/)
+2. [https://github.com/abhiib02](https://github.com/abhiib02)
 3. ...
 
 ## Friday-Night
