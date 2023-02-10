@@ -12,10 +12,12 @@
 * [Feb](2023/feb/README.md)
   * [week 5](2023/feb/week-5.md)
   * [week 6](2023/feb/week-6.md)
+  * [week 7](2023/feb/week-7.md)
 
 ## other
 
 * [Common Participant](other/common-participant.md)
+* [Participant](other/participant.md)
 * [Template week-n](other/template-week-n.md)
 
 ## Links

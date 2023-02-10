@@ -1,11 +1,4 @@
-# week 6
 
-```
-⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-- What we Learn in week-6
-- Will be added
-- After Friday-Night
-```
 
 ## 2023 / feb / week-6
 
@@ -18,9 +11,6 @@
 
 <figure><img src="https://raw.githubusercontent.com/Connecting-Dots-Forever/media/main/screenshots/welcome_message.png" alt="Welcome Message Image on Server"><figcaption></figcaption></figure>
 
-### Tech
-
-1. ...
 
 ### Coding
 
@@ -31,11 +21,6 @@
 3. webflow
    * [https://webflow.com/](https://webflow.com/)
    * wordpress, figma .... etc
-4.
-
-### Web-Dev
-
-1. ...
 
 ### DSA
 
@@ -48,7 +33,6 @@
 ### Extension
 
 1. [https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
-2.
 
 ### AI-ML
 
@@ -59,30 +43,47 @@
 
 1. Blogs by Raghav
 
-* [https://dev.to/withrvr/use-of-in-python-5geg](https://dev.to/withrvr/use-of-in-python-5geg)
-* [https://dev.to/withrvr/-reverse-string-using-html-tag-only-16pj](https://dev.to/withrvr/-reverse-string-using-html-tag-only-16pj)
-* 🍎: Bad Apple: [https://dev.to/withrvr/-bad-apple-2lom](https://dev.to/withrvr/-bad-apple-2lom)
-
-2. ..
-
-### Other
-
-1. ...
+   * [https://dev.to/withrvr/use-of-in-python-5geg](https://dev.to/withrvr/use-of-in-python-5geg)
+   * [https://dev.to/withrvr/-reverse-string-using-html-tag-only-16pj](https://dev.to/withrvr/-reverse-string-using-html-tag-only-16pj)
+   * 🍎: Bad Apple: [https://dev.to/withrvr/-bad-apple-2lom](https://dev.to/withrvr/-bad-apple-2lom)
 
 ## Friday-Night
 
 {% hint style="info" %}
 ```
 EXPECTED MANY WOULD JOIN
+but most of them ... outside / Hackathon
 ```
 {% endhint %}
 
 ### Discuss On
 
-* ...
-* ...
+- Projects
+  - Portfolio :- https://ayushbulbule.vercel.app/
+  - tejas:- ecommerce website
+    - fix / diff size image ?
+    - optimization should we ?
+- ...
+- clg relate talk
+	- hackthon
+	- contenst
+	- programms
+	- what going on
+- leetcode
+	- how to start
+	- what to do
+	- status
+- random avatar
+  - profile image
+  - https://dicebear.com/
 
 ### Participant
 
-1. Name Surname / username / link
-2. ...
+- Raghav Rathi
+- Tejas Lakade
+- Ayush Bulbule
+- ...
+- Vedant Chodhary
+- Anshuman Deshmukh
+- Harsh Soni
+
