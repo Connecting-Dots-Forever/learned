@@ -1,5 +1,3 @@
-# week 6
-
 ```
 ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
 - What we Learn in week-6

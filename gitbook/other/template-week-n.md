@@ -1,5 +1,3 @@
-# Template week-n
-
 ```
 ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
 - What we Learn in week-n

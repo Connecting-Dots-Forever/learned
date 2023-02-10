@@ -1,5 +1,3 @@
-# week 4
-
 # 2023 / jan / week-4
 
 ## Tech
