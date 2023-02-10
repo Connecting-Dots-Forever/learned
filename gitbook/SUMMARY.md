@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Connecting Dots Forever](README.md)
 
 ## 2023
 

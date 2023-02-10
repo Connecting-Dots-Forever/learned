@@ -1,60 +1,66 @@
+# Template week-n
+
+{% hint style="warning" %}
 ```
 ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
 - What we Learn in week-n
 - Will be added
 - After Friday-Night
 ```
+{% endhint %}
 
-# year / month / week-n
+## year / month / week-n
 
+{% hint style="info" %}
+```markup
+- Any Additional NOTEs
+- Big Event
+- etc
 ```
-Any Additional NOTEs
-Big Event
-etc
-```
+{% endhint %}
 
-## Tech
+### Tech
 
 1. ...
 
-## Coding
+### Coding
 
 1. ...
 
-## Web-Dev
+### Web-Dev
 
 1. ...
 
-## DSA
+### DSA
 
 1. ...
 
-## Extension
+### Extension
 
 1. ...
 
-## AI-ML
+### AI-ML
 
 1. ...
 
-## Other
+### Other
 
 1. ...
 
-# Friday-Night
+## Friday-Night
 
-```
-Any Additional NOTEs
-Big Event
-etc
-```
+{% hint style="info" %}
+* Any Additional NOTE's
+* Big Event
+* etc
+{% endhint %}
 
-## Discuss On
+### Discuss On
 
 * ...
 * ...
 
-## Participant
+### Participant
 
 1. Name Surname / username / link
 2. ...
