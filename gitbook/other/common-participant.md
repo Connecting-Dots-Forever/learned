@@ -1,7 +1,7 @@
 # Common Participant
 
 1. Raghav Rathi / @withrvr / RiVeR
-   * https://github.com/withrvr
+   * [https://github.com/withrvr](https://github.com/withrvr)
    * https://withrvr.bio.link/
 2. Abhishek Bhardwaj / Hero Gamer
    * https://github.com/abhiib02
