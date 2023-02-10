@@ -1,8 +1,8 @@
 # week 3
 
-## 2023 / jan / week-3
+# 2023 / jan / week-3
 
-### Tech
+## Tech
 
 1. [https://github.com/teekamsuthar/Mutify](https://github.com/teekamsuthar/Mutify)
 2. [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
@@ -12,7 +12,7 @@
    * can store all social at same place
 5. [https://microsoftedge.microsoft.com/addons/detail/hero-thumb-downloader/eionhgcppdmoemnmfgegpkdggipbfank](https://microsoftedge.microsoft.com/addons/detail/hero-thumb-downloader/eionhgcppdmoemnmfgegpkdggipbfank)
 
-### Code
+## Code
 
 1. why and when to use css
    * [https://youtu.be/lHZwlzOUOZ4](https://youtu.be/lHZwlzOUOZ4)
@@ -20,26 +20,26 @@
    * [https://youtu.be/Bf7vDBBOBUA](https://youtu.be/Bf7vDBBOBUA)
 3. ...
 
-### DSA
+## DSA
 
 1. [https://leetcode.com/study-plan/leetcode-75/](https://leetcode.com/study-plan/leetcode-75/)
 2. [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
 
 * [https://leetcode.com/discuss/topic/3069795/0-ms-only-yo-wtf-also-without-slow/](https://leetcode.com/discuss/topic/3069795/0-ms-only-yo-wtf-also-without-slow/)
 
-### AI-ML
+## AI-ML
 
 1. [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
    1. [https://teachablemachine.withgoogle.com/models/Ibn1WSIye/](https://teachablemachine.withgoogle.com/models/Ibn1WSIye/)
    2. [https://teachablemachine.withgoogle.com/models/pAVRIBPyW/](https://teachablemachine.withgoogle.com/models/pAVRIBPyW/)
 2. ...
 
-### Error
+## Error
 
 * how to remove unused js
   * webpack
 
-### Other
+## Other
 
 1. [https://www.edwardh.io/](https://www.edwardh.io/)
 2. [https://stackshare.io/withrvr/my-stack](https://stackshare.io/withrvr/my-stack)
@@ -50,9 +50,9 @@
 7. new wikipedia ui
 8. ...
 
-## Friday-Night
+# Friday-Night
 
-### Discuss On
+## Discuss On
 
 * project showcase by Abhishek Bhardwaj
   * [https://bhardwaj.netlify.app/](https://bhardwaj.netlify.app/)
@@ -82,7 +82,7 @@
 * use gsap for sexy animations ... and other things
   * [https://greensock.com/gsap/](https://greensock.com/gsap/)
 
-### Participant
+## Participant
 
 1. Raghav Rathi / @withrvr / river
 2. shantanu barad / thorfinn

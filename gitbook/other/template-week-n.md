@@ -7,7 +7,7 @@
 - After Friday-Night
 ```
 
-## year / month / week-n
+# year / month / week-n
 
 ```
 Any Additional NOTEs
@@ -15,35 +15,35 @@ Big Event
 etc
 ```
 
-### Tech
+## Tech
 
 1. ...
 
-### Coding
+## Coding
 
 1. ...
 
-### Web-Dev
+## Web-Dev
 
 1. ...
 
-### DSA
+## DSA
 
 1. ...
 
-### Extension
+## Extension
 
 1. ...
 
-### AI-ML
+## AI-ML
 
 1. ...
 
-### Other
+## Other
 
 1. ...
 
-## Friday-Night
+# Friday-Night
 
 ```
 Any Additional NOTEs
@@ -51,12 +51,12 @@ Big Event
 etc
 ```
 
-### Discuss On
+## Discuss On
 
 * ...
 * ...
 
-### Participant
+## Participant
 
 1. Name Surname / username / link
 2. ...

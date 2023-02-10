@@ -1,8 +1,8 @@
 # week 4
 
-## 2023 / jan / week-4
+# 2023 / jan / week-4
 
-### Tech
+## Tech
 
 1. [https://blackmagic.so/](https://blackmagic.so/)
    * [https://blackmagic.so/real-time-banner](https://blackmagic.so/real-time-banner)
@@ -12,7 +12,7 @@
 5. [https://www.quora.com/What-is-the-difference-between-Mbps-and-MBps](https://www.quora.com/What-is-the-difference-between-Mbps-and-MBps)
 6. ...
 
-### Code
+## Code
 
 1. spheron or ipfs
    1. [https://spheron.network/](https://spheron.network/)
@@ -23,7 +23,7 @@
 3. flag using threejs :- [https://codepen.io/okada-web/pen/OJydGzy](https://codepen.io/okada-web/pen/OJydGzy)
 4. ...
 
-### Extension
+## Extension
 
 1. [https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 2. Greeper
@@ -34,7 +34,7 @@
    * vs extension:- [https://marketplace.visualstudio.com/items?itemName=Grepper.grepper](https://marketplace.visualstudio.com/items?itemName=Grepper.grepper)
 3. ...
 
-### Other
+## Other
 
 1. drink more water
 2. increase typing speed
@@ -42,9 +42,9 @@
 4. game devlog youtuber:- [https://www.youtube.com/@SebastianLague/videos](https://www.youtube.com/@SebastianLague/videos)
 5. ...
 
-## Friday-Night
+# Friday-Night
 
-### Discuss On
+## Discuss On
 
 * start using **grepper** ... best tool
 * designing using figma
@@ -67,7 +67,7 @@
 * tag cloud ... every one should add in there website
   * [https://en.wikipedia.org/wiki/Tag\_cloud](https://en.wikipedia.org/wiki/Tag\_cloud)
 
-### Participant
+## Participant
 
 1. Raghav Rathi / @withrvr / RiVeR
 2. shantanu barad / thorfinn

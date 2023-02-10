@@ -1,12 +1,12 @@
 # week 5
 
-## 2023 / feb / week-5
+# 2023 / feb / week-5
 
 ```
 😥: Less Active Week
 ```
 
-### Web-Dev
+## Web-Dev
 
 1. Like Control Panel
    * press `esc` :- [https://monkeytype.com/settings](https://monkeytype.com/settings)
@@ -16,18 +16,18 @@
 3. Official from chrome
    * [https://web.dev/](https://web.dev/)
 
-### Extension
+## Extension
 
 1. [https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 2. [https://www.octotree.io/](https://www.octotree.io/)
    * [https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
-### other
+## other
 
 1. [https://twitter.com/SetupsProject](https://twitter.com/SetupsProject)
 2. [https://app.daily.dev/](https://app.daily.dev/)
 
-## Friday-Night
+# Friday-Night
 
 ```
 Meet to be Remembered forever
@@ -41,7 +41,7 @@ then other join, meet started
 and what a conversation
 ```
 
-### Discuss On
+## Discuss On
 
 * project showcase
   * [https://github.com/withrvr/ChatGPT-Gmail-Bot/](https://github.com/withrvr/ChatGPT-Gmail-Bot/)
@@ -91,7 +91,7 @@ and what a conversation
 * OCD (Obsessive-compulsive disorder) ... LOL :/
 * some coding memes, funny jokes, etc
 
-### Participant
+## Participant
 
 1. Raghav Rathi / @withrvr / RiVeR
    * [https://github.com/withrvr](https://github.com/withrvr)
