@@ -13,6 +13,7 @@
   * [week 5](2023/feb/week-5.md)
   * [week 6](2023/feb/week-6.md)
   * [week 7](2023/feb/week-7.md)
+  * [week 8](2023/feb/week-8.md)
 
 ## other
 

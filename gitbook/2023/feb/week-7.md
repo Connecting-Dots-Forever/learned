@@ -1,66 +1,33 @@
-
-
-{% hint style="warning" %}
-```
-⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-- What we Learn in week-7
-- Will be added
-- After Friday-Night
-```
-{% endhint %}
-
 # year / feb / week-7
 
 {% hint style="info" %}
 ```markup
-- Any Additional NOTEs
-- Big Event
-- etc
+now onwards
+only IMP
+links/discussion will be added
+other will be on server/video call
 ```
 {% endhint %}
 
-## Tech
-
-1. ...
-
-## Coding
-
-1. ...
-
 ## Web-Dev
 
-1. ...
-
-## DSA
-
-1. ...
-
-## Extension
-
-1. ...
-
-## AI-ML
-
-1. ...
-
-## Other
-
-1. ...
+1. Use Maps more and Objects less
+   - [https://www.youtube.com/watch?v=hubQQ3F337A&ab_channel=Steve-Builderio](https://www.youtube.com/watch?v=hubQQ3F337A&ab_channel=Steve-Builderio)
 
 # Friday-Night
 
 {% hint style="info" %}
-* Any Additional NOTE's
-* Big Event
-* etc
+```
+✉️: I didn't msg this time
+so see if anyone will come
+no one came 😓 ... lol :/
+```
 {% endhint %}
 
 ## Discuss On
 
-* ...
-* ...
+- Null
 
 ## Participant
 
-1. Name Surname / username / link
-2. ...
+- None
