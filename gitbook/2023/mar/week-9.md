@@ -10,10 +10,10 @@ coverY: 0
 
 ### Extension
 
-1.  Very helpful for competitive programming on Codechef
-    - [https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
-2.  black box extension for vscode
-    - [https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
+1. Very helpful for competitive programming on Codechef
+   * [https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
+2. black box extension for vscode
+   * [https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
 
 ## Friday-Night
 
@@ -49,23 +49,22 @@ and helped by @Abhishek Bhardwaj
 * Like spotify :- [https://audius.co/](https://audius.co/)
 * [https://ipfs.tech/](https://ipfs.tech/)
 * ICP :- [https://internetcomputer.org/](https://internetcomputer.org/)
+  * list of projects on web3
+  * [https://internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem)
 * evm web3 :- [https://ethereum.org/](https://ethereum.org/)
 * [https://etherscan.io/](https://etherscan.io/)
-* YouTuber recommended :- [https://www.youtube.com/@CoinBureau](https://www.youtube.com/@CoinBureau)
-*   ### Many topics like ... related to web3
-
-    * blockchain
-      * sha256 algorithm in blockchain
-    * crypto
-    * bitcoin
-      * bitcoin block time
-    * metaverse
-    * NFT
-    * ..... etc
-
-
-
-
+* YouTuber recommended
+  * English :- [https://www.youtube.com/@CoinBureau](https://www.youtube.com/@CoinBureau)
+  * Hindi :- [https://www.youtube.com/@CodeEater21/](https://www.youtube.com/@CodeEater21/videos)
+* #### Many topics like ... related to web3
+  * blockchain
+    * sha256 algorithm in blockchain
+  * crypto
+  * bitcoin
+    * bitcoin block time
+  * metaverse
+  * NFT
+  * ..... etc
 
 ### Participant
 
