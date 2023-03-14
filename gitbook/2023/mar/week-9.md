@@ -10,12 +10,10 @@ coverY: 0
 
 ### Extension
 
-1.  Very hlepfull for compititive programming on codechef
-
-    [https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
+1.  Very helpful for competitive programming on Codechef
+    - [https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
 2.  black box extension for vscode
-
-    [https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
+    - [https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
 
 ## Friday-Night
 

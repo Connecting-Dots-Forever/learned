@@ -7,7 +7,6 @@ coverY: 0
 # Template week-n
 
 
-
 {% hint style="warning" %}
 ```
 ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
