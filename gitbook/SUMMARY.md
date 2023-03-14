@@ -16,6 +16,8 @@
   * [week 8](2023/feb/week-8.md)
 * [Mar](2023/mar/README.md)
   * [week 9](2023/mar/week-9.md)
+  * [week 10](2023/mar/week-9-1.md)
+  * [week-11](2023/mar/template-week-n.md)
 
 ## other
 

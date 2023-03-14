@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/1128-191-linkedin-banner.png
+coverY: 0
+---
+
 # Connecting Dots Forever
 
 ## "CDF" or "cd forever"

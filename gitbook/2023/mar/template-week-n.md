@@ -1,23 +1,21 @@
 ---
-description: 0 Foo 2023
-cover: ../.gitbook/assets/1128-191-linkedin-banner.png
+description: 17 March 2023
+cover: ../../.gitbook/assets/1128-191-linkedin-banner.png
 coverY: 0
 ---
 
-# Template week-n
-
-
+# week-11
 
 {% hint style="warning" %}
 ```
 ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-- What we Learn in week-n
+- What we Learn in week-11
 - Will be added
 - After Friday-Night
 ```
 {% endhint %}
 
-## year / month / week-n
+## 2023 / March / week-11
 
 {% hint style="info" %}
 ```markup

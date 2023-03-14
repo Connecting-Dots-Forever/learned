@@ -1,65 +1,74 @@
+---
+description: 3 March 2023
+cover: ../../.gitbook/assets/week9-gaurav.png
+coverY: 0
+---
 
-{% hint style="warning" %}
-```
-⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-- What we Learn in week-9
-- Will be added
-- After Friday-Night
-```
-{% endhint %}
+# week 9
 
-# year / month / week-9
+2023 / March / week-9
 
-{% hint style="info" %}
-```markup
-- Any Additional NOTEs
-- Big Event
-- etc
-```
-{% endhint %}
+### Extension
 
-## Tech
+1.  Very hlepfull for compititive programming on codechef
 
-1. ...
+    [https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
+2.  black box extension for vscode
 
-## Coding
+    [https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox)
 
-1. ...
-
-## Web-Dev
-
-1. ...
-
-## DSA
-
-1. ...
-
-## Extension
-
-1. ...
-
-## AI-ML
-
-1. ...
-
-## Other
-
-1. ...
-
-# Friday-Night
+## Friday-Night
 
 {% hint style="info" %}
-* Any Additional NOTE's
-* Big Event
-* etc
+```
+only talked related to
+`Web3` in Discussion
+
+Mostly by @lite / Vedant Chaudhari
+which he is learning in #100DaysOfCodeChallenge
+
+and helped by @Abhishek Bhardwaj
+```
 {% endhint %}
 
-## Discuss On
+### Discuss On
 
-* ...
-* ...
+<figure><img src="../../.gitbook/assets/week9-web3-tree.png" alt=""><figcaption><p>all talk was surrouned around it</p></figcaption></figure>
 
-## Participant
+#### Other
 
-- Name Surname / username / link
-- ...
+* 1 Sec App :- [https://one-sec.app/](https://one-sec.app/)
+* Ai to create ppt [https://beta.tome.app/](https://beta.tome.app/)
+  * example for web3
+  * [https://tome.app/lite-55a/unlocking-the-potential-of-web3-and-blockchain-clesncuvc00cdc9ksgwh5ugqh](https://tome.app/lite-55a/unlocking-the-potential-of-web3-and-blockchain-clesncuvc00cdc9ksgwh5ugqh)
+* threejs projects ... [https://threejs.org/](https://threejs.org/)
+
+#### Web 3 Related
+
+* centralized vs decentralized data
+* web 1 vs 2 vs 3
+* usecase of it
+* Like spotify :- [https://audius.co/](https://audius.co/)
+* [https://ipfs.tech/](https://ipfs.tech/)
+* ICP :- [https://internetcomputer.org/](https://internetcomputer.org/)
+* evm web3 :- [https://ethereum.org/](https://ethereum.org/)
+* [https://etherscan.io/](https://etherscan.io/)
+* YouTuber recommended :- [https://www.youtube.com/@CoinBureau](https://www.youtube.com/@CoinBureau)
+*   ### Many topics like ... related to web3
+
+    * blockchain
+      * sha256 algorithm in blockchain
+    * crypto
+    * bitcoin
+      * bitcoin block time
+    * metaverse
+    * NFT
+    * ..... etc
+
+
+
+
+
+### Participant
+
+<figure><img src="../../.gitbook/assets/web3-week9.png" alt=""><figcaption></figcaption></figure>
